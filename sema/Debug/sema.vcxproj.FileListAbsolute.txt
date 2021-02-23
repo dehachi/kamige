@@ -1,0 +1,2 @@
+C:\Users\keisa\Documents\sema\Debug\sema.exe
+C:\Users\keisa\Documents\sema\Debug\sema.pdb
